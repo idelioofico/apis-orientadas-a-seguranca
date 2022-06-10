@@ -1,6 +1,6 @@
 # Modelagem de API's seguras - OWASP
 
-- - ### API 
+### API 
 
     Application Programming Interface(API) , serve como ‘interface’ padronizada  para comunicação  entre  sistemas ou aplicações para a partilha de dados encapsulando as tecnologias utilizadas.
 
