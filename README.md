@@ -40,7 +40,7 @@
 
     
 
-    **Vocabulo**
+    ** Vocabulo **
 
     ```
     O método PUT é idempotente. Um método é considerado idempotente se o resultado de uma requisição realizada com sucesso é independente do número de vezes que é executada. Gregor Roth
@@ -48,7 +48,7 @@
 
     
 
-    **GET** 
+    ** GET ** 
 
     O GET jamais deveria criar, actualizar ou apagar um recurso. O resultado do GET sempre será o mesmo para um determinado conjunto de informações.
 
